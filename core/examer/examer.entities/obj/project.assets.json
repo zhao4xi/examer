@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VS2017\\GitHub\\examer\\examer\\examer.entities\\examer.entities.csproj",
+      "projectUniqueName": "F:\\VS2017\\GitHub\\examer\\core\\examer\\examer.entities\\examer.entities.csproj",
       "projectName": "examer.entities",
-      "projectPath": "F:\\VS2017\\GitHub\\examer\\examer\\examer.entities\\examer.entities.csproj",
+      "projectPath": "F:\\VS2017\\GitHub\\examer\\core\\examer\\examer.entities\\examer.entities.csproj",
       "packagesPath": "C:\\Users\\ncqingchuan\\.nuget\\packages\\",
-      "outputPath": "F:\\VS2017\\GitHub\\examer\\examer\\examer.entities\\obj\\",
+      "outputPath": "F:\\VS2017\\GitHub\\examer\\core\\examer\\examer.entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
