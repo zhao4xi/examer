@@ -4,8 +4,8 @@ using System.Text;
 
 namespace examer.entities
 {
-    public class userentity : Baseentity<int>
+    public interface IConcurrent
     {
-        public string username { get; set; }
+        int LastChanged { get; set; }
     }
 }

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "examer.entities", "examer.e
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "examer.efcore", "examer.efcore\examer.efcore.csproj", "{6B4D4F0F-CCA8-45C5-8795-E01C4ECA7848}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examer.app", "examer.app\examer.app.csproj", "{64AAD470-6B5C-4CF5-9B3D-0C390AC4BDA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6B4D4F0F-CCA8-45C5-8795-E01C4ECA7848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B4D4F0F-CCA8-45C5-8795-E01C4ECA7848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B4D4F0F-CCA8-45C5-8795-E01C4ECA7848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AAD470-6B5C-4CF5-9B3D-0C390AC4BDA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AAD470-6B5C-4CF5-9B3D-0C390AC4BDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AAD470-6B5C-4CF5-9B3D-0C390AC4BDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AAD470-6B5C-4CF5-9B3D-0C390AC4BDA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

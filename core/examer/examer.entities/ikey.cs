@@ -4,9 +4,8 @@ using System.Text;
 
 namespace examer.entities
 {
-    public interface Ikey<Tkey> where Tkey : IComparable<Tkey>
-
+    public interface IKey<TKey> where TKey : IComparable<TKey>
     {
-        Tkey key { get; set; }
+        TKey Key { get; set; }
     }
 }

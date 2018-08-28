@@ -5,3 +5,8 @@ F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\exame
 F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\examer.efcore.AssemblyInfoInputs.cache
 F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\examer.efcore.AssemblyInfo.cs
 F:\VS2017\GitHub\examer\core\examer\examer.efcore\bin\Debug\netstandard2.0\examer.entities.dll
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\bin\Debug\netstandard2.0\examer.efcore.pdb
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\bin\Debug\netstandard2.0\examer.entities.pdb
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\examer.efcore.csproj.CopyComplete
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\examer.efcore.dll
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\examer.efcore.pdb

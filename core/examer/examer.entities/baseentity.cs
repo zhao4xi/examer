@@ -4,8 +4,8 @@ using System.Text;
 
 namespace examer.entities
 {
-    public abstract class Baseentity<Tkey> : Ikey<Tkey> where Tkey : IComparable<Tkey>
+    public class BaseEntity<TKey> : IKey<TKey> where TKey : IComparable<TKey>
     {
-        public Tkey key { get; set; }
+        public TKey Key { get; set; }
     }
 }

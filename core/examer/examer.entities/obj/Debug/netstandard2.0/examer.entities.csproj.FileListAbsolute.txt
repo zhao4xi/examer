@@ -1,0 +1,9 @@
+F:\VS2017\GitHub\examer\core\examer\examer.entities\bin\Debug\netstandard2.0\examer.entities.deps.json
+F:\VS2017\GitHub\examer\core\examer\examer.entities\bin\Debug\netstandard2.0\examer.entities.dll
+F:\VS2017\GitHub\examer\core\examer\examer.entities\bin\Debug\netstandard2.0\examer.entities.pdb
+F:\VS2017\GitHub\examer\core\examer\examer.entities\obj\Debug\netstandard2.0\examer.entities.csprojAssemblyReference.cache
+F:\VS2017\GitHub\examer\core\examer\examer.entities\obj\Debug\netstandard2.0\examer.entities.csproj.CoreCompileInputs.cache
+F:\VS2017\GitHub\examer\core\examer\examer.entities\obj\Debug\netstandard2.0\examer.entities.AssemblyInfoInputs.cache
+F:\VS2017\GitHub\examer\core\examer\examer.entities\obj\Debug\netstandard2.0\examer.entities.AssemblyInfo.cs
+F:\VS2017\GitHub\examer\core\examer\examer.entities\obj\Debug\netstandard2.0\examer.entities.dll
+F:\VS2017\GitHub\examer\core\examer\examer.entities\obj\Debug\netstandard2.0\examer.entities.pdb

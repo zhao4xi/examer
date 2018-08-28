@@ -1,0 +1,16 @@
+F:\VS2017\GitHub\examer\core\examer\examer.app\bin\Debug\netcoreapp2.1\examer.efcore.dll
+F:\VS2017\GitHub\examer\core\examer\examer.app\bin\Debug\netcoreapp2.1\examer.entities.dll
+F:\VS2017\GitHub\examer\core\examer\examer.app\obj\Debug\netcoreapp2.1\examer.app.csprojAssemblyReference.cache
+F:\VS2017\GitHub\examer\core\examer\examer.app\obj\Debug\netcoreapp2.1\examer.app.csproj.CoreCompileInputs.cache
+F:\VS2017\GitHub\examer\core\examer\examer.app\obj\Debug\netcoreapp2.1\examer.app.AssemblyInfoInputs.cache
+F:\VS2017\GitHub\examer\core\examer\examer.app\obj\Debug\netcoreapp2.1\examer.app.AssemblyInfo.cs
+F:\VS2017\GitHub\examer\core\examer\examer.app\bin\Debug\netcoreapp2.1\examer.app.deps.json
+F:\VS2017\GitHub\examer\core\examer\examer.app\bin\Debug\netcoreapp2.1\examer.app.runtimeconfig.json
+F:\VS2017\GitHub\examer\core\examer\examer.app\bin\Debug\netcoreapp2.1\examer.app.runtimeconfig.dev.json
+F:\VS2017\GitHub\examer\core\examer\examer.app\bin\Debug\netcoreapp2.1\examer.app.dll
+F:\VS2017\GitHub\examer\core\examer\examer.app\bin\Debug\netcoreapp2.1\examer.app.pdb
+F:\VS2017\GitHub\examer\core\examer\examer.app\bin\Debug\netcoreapp2.1\examer.efcore.pdb
+F:\VS2017\GitHub\examer\core\examer\examer.app\bin\Debug\netcoreapp2.1\examer.entities.pdb
+F:\VS2017\GitHub\examer\core\examer\examer.app\obj\Debug\netcoreapp2.1\examer.app.csproj.CopyComplete
+F:\VS2017\GitHub\examer\core\examer\examer.app\obj\Debug\netcoreapp2.1\examer.app.dll
+F:\VS2017\GitHub\examer\core\examer\examer.app\obj\Debug\netcoreapp2.1\examer.app.pdb
