@@ -1,0 +1,7 @@
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\bin\Debug\netstandard2.0\examer.efcore.deps.json
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\bin\Debug\netstandard2.0\examer.efcore.dll
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\examer.efcore.csprojAssemblyReference.cache
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\examer.efcore.csproj.CoreCompileInputs.cache
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\examer.efcore.AssemblyInfoInputs.cache
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\obj\Debug\netstandard2.0\examer.efcore.AssemblyInfo.cs
+F:\VS2017\GitHub\examer\core\examer\examer.efcore\bin\Debug\netstandard2.0\examer.entities.dll
