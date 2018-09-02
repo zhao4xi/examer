@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.entities/examer.entities.csproj",
+      "projectUniqueName": "/home/ncqingchuan/vscode/examer/core/examer/examer.entities/examer.entities.csproj",
       "projectName": "examer.entities",
-      "projectPath": "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.entities/examer.entities.csproj",
+      "projectPath": "/home/ncqingchuan/vscode/examer/core/examer/examer.entities/examer.entities.csproj",
       "packagesPath": "/home/ncqingchuan/.nuget/packages/",
-      "outputPath": "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.entities/obj/",
+      "outputPath": "/home/ncqingchuan/vscode/examer/core/examer/examer.entities/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
