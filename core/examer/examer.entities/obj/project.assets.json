@@ -30,10 +30,12 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -176,28 +178,30 @@
     ]
   },
   "packageFolders": {
-    "/home/ncqingchuan/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\ncqingchuan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ncqingchuan/vscode/examer/core/examer/examer.entities/examer.entities.csproj",
+      "projectUniqueName": "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.entities\\examer.entities.csproj",
       "projectName": "examer.entities",
-      "projectPath": "/home/ncqingchuan/vscode/examer/core/examer/examer.entities/examer.entities.csproj",
-      "packagesPath": "/home/ncqingchuan/.nuget/packages/",
-      "outputPath": "/home/ncqingchuan/vscode/examer/core/examer/examer.entities/obj/",
+      "projectPath": "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.entities\\examer.entities.csproj",
+      "packagesPath": "C:\\Users\\ncqingchuan\\.nuget\\packages\\",
+      "outputPath": "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/ncqingchuan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ncqingchuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

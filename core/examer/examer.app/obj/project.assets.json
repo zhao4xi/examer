@@ -1420,10 +1420,12 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Tools.DotNet/2.0.3": {
-      "sha512": "G0soUii72VLtx3lOFXFaKIJ190hSZNnjkNvIxejaZdQFX3JTgXMB6C81KFinIkZXrt4wVdmu0xmmafB4sD7v6w==",
+      "sha512": "hzmsyzyoJJPB1XVC9oLiE9j9NrReeuTicAAiH/W2kBVfjX0/2isyi0S/4jVF6oP6MIuLBGOqRwjMwwG0jaz0rA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.tools.dotnet/2.0.3",
+      "hasTools": true,
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netcoreapp2.0/dotnet-ef.dll",
         "lib/netcoreapp2.0/dotnet-ef.runtimeconfig.json",
@@ -1497,10 +1499,11 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection/2.1.1": {
-      "sha512": "2nshYaLTn73Ie+/yTkb7EZIXwQeFIXsYCBy/jSY9bMayYykGNjdWa25frayhuPAGVbZpEgfgp3d4JRVEuVyEqQ==",
+      "sha512": "ZPFcDUbSwaEVWMyef8+9GqiTAghHX+eLeIEW032i4LDFAdyM4J4brV0UzChlKtClT7cuip/Of6G+veDnO3/bCw==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection/2.1.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net461/Microsoft.Extensions.DependencyInjection.dll",
         "lib/net461/Microsoft.Extensions.DependencyInjection.xml",
@@ -1913,10 +1916,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1945,10 +1949,12 @@
       ]
     },
     "MySqlConnector/0.42.1": {
-      "sha512": "7jS8P+XOw+vS/reuwEEGhtAKvagiOEtOsu5/46Bnuiw+DgOjAFgMSojkiVaZi9DHcatP8jgmjY67iDGVZByQng==",
+      "sha512": "mw9ko3UC/tHH/wAqFrD4ZRUi5n39mWLn6Fzlqy+tpMdLYLjeCfGchZDWBHkqjAv54/LLgnlwGECDUk0Yg+JeXQ==",
       "type": "package",
       "path": "mysqlconnector/0.42.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net45/MySqlConnector.dll",
         "lib/net461/MySqlConnector.dll",
         "lib/netcoreapp2.1/MySqlConnector.dll",
@@ -2086,10 +2092,13 @@
       ]
     },
     "Newtonsoft.Json/10.0.1": {
-      "sha512": "ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
+      "sha512": "MOUhQfeI43upq9QiEv+7YYTDQPtEZEj9xB50MgplO1XF/aumP0f+TCYIHpZEmfsiahJJaXt/gdRFYLFEoF2VyQ==",
       "type": "package",
       "path": "newtonsoft.json/10.0.1",
+      "hasTools": true,
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -2110,20 +2119,24 @@
       ]
     },
     "Pomelo.EntityFrameworkCore.MySql/2.1.1": {
-      "sha512": "V/W72zl2iWUWdSvj0c9chzssv9OUdSbEiEeOmP3D5Co5CbAtOiyyFwov0hVN+D/VNGhUQGszUltIWuoYEjTHhQ==",
+      "sha512": "JauxInJNVU+yRtqf/J5snn1VPtDEQzAroAEt74IY/JYm0/rr4MgDhliR+Bg4mOutExthEFYgDuxRmDvtj6p6Tg==",
       "type": "package",
       "path": "pomelo.entityframeworkcore.mysql/2.1.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/netstandard2.0/Pomelo.EntityFrameworkCore.MySql.dll",
         "pomelo.entityframeworkcore.mysql.2.1.1.nupkg.sha512",
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
     },
     "Pomelo.JsonObject/1.1.1": {
-      "sha512": "erkYG/OW1LloSwDFGeS9MvVjy1FLmaV3k8GK/GMR8D3sSDEylZogoLdLiaOFc92+zTen92rG6XGiioNacSlg0A==",
+      "sha512": "IzQjzkvDn0R6QbGGBfcTXFhJMayGRx6cU55nXL0SrSooRFtarkQG2tPOCsyhZ2d6P3Ki6iBwKR5At2hFKeYmhQ==",
       "type": "package",
       "path": "pomelo.jsonobject/1.1.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net451/Pomelo.JsonObject.dll",
         "lib/netstandard1.3/Pomelo.JsonObject.dll",
         "pomelo.jsonobject.1.1.1.nupkg.sha512",
@@ -2131,10 +2144,12 @@
       ]
     },
     "Remotion.Linq/2.2.0": {
-      "sha512": "fK/76UmpC0FXBlGDFVPLJHQlDLYnGC+XY3eoDgCgbtrhi0vzbXDQ3n/IYHhqSKqXQfGw/u04A1drWs7rFVkRjw==",
+      "sha512": "twDAH8dAXXCAf3sRv1Tf94u66eEHvgU75hfn1nn2v4fSWXD50XoDOAk8WpSrbViNuMkB4kN1ElnOGm1c519IHg==",
       "type": "package",
       "path": "remotion.linq/2.2.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net35/Remotion.Linq.XML",
         "lib/net35/Remotion.Linq.dll",
         "lib/net40/Remotion.Linq.XML",
@@ -2864,10 +2879,12 @@
       ]
     },
     "System.Interactive.Async/3.1.1": {
-      "sha512": "hZccYiIE5RS1/J9Tb/BNtosAGVggdlsJm4Ojdu+gDV0p4AIi+LUfUogMKkRacljQEJd2AG6vYzvcjhQFkqoZmw==",
+      "sha512": "x9y2omkjEudKbIVuhUzeWw7ZlouEzpk4W98woCEq1lq9gJxERBKRKDTHF5JPEws9E0f4/Uei/2vLxEy1IrfmMg==",
       "type": "package",
       "path": "system.interactive.async/3.1.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net45/System.Interactive.Async.dll",
         "lib/net45/System.Interactive.Async.xml",
         "lib/net46/System.Interactive.Async.dll",
@@ -3840,10 +3857,11 @@
       ]
     },
     "System.Runtime.CompilerServices.Unsafe/4.5.1": {
-      "sha512": "qUJMNWhbm9oZ3XaMFiEMiYmRPszbnXIkRIi7+4b2Md2xZ6JUOepf0/kY3S85qistRohl9OdMe4PsO+RdG2kTIQ==",
+      "sha512": "x/3d5xb+mc9e4I2GOOT+HPRWMZLbYjNN/kYKsb0fyUKcWizn/t1CIrGRLIBhv7H0ptYEt+WTTztdPmwSUMyKig==",
       "type": "package",
       "path": "system.runtime.compilerservices.unsafe/4.5.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -4784,38 +4802,40 @@
     ]
   },
   "packageFolders": {
-    "/home/ncqingchuan/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\ncqingchuan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.app/examer.app.csproj",
+      "projectUniqueName": "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.app\\examer.app.csproj",
       "projectName": "examer.app",
-      "projectPath": "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.app/examer.app.csproj",
-      "packagesPath": "/home/ncqingchuan/.nuget/packages/",
-      "outputPath": "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.app/obj/",
+      "projectPath": "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.app\\examer.app.csproj",
+      "packagesPath": "C:\\Users\\ncqingchuan\\.nuget\\packages\\",
+      "outputPath": "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/ncqingchuan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ncqingchuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.efcore/examer.efcore.csproj": {
-              "projectPath": "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.efcore/examer.efcore.csproj"
+            "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.efcore\\examer.efcore.csproj": {
+              "projectPath": "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.efcore\\examer.efcore.csproj"
             },
-            "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.entities/examer.entities.csproj": {
-              "projectPath": "/home/ncqingchuan/vscode/Git/core/examer/core/examer/examer.entities/examer.entities.csproj"
+            "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.entities\\examer.entities.csproj": {
+              "projectPath": "E:\\VS2017\\GitHub\\examer\\core\\examer\\examer.entities\\examer.entities.csproj"
             }
           }
         }
